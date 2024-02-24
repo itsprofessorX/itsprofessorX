@@ -1,4 +1,5 @@
-https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif
+![image](https://github.com/itsprofessorX/itsprofessorX/assets/122669733/c1760ee1-ea41-4335-a970-4f01cbca23fa)
+
 
 <h1 align="center">Hi 👋, I'm Professor</h1>
 <h3 align="center">I am Custom Rom developer from India</h3>
