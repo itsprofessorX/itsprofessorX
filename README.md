@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Professor</h1>
-<h3 align="center">I am Custom Rom developer from India</h3>
+<h3 align="center">I am Android Rom developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprofessorx&label=Profile%20views&color=0e75b6&style=flat" alt="itsprofessorx" /> </p>
 
-- 🌱 I’m currently learning **Rom building, Android stuff, GitHub**
+- 🌱 I’m currently learning ** Android Rom building, Android stuff, GitHub**
 
 - 💬 Ask me about **Android,Linux**
 
